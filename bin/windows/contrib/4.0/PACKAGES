@@ -1,0 +1,5 @@
+Package: cghseg
+Version: 1.0.2-3
+Depends: methods, parallel
+License: GPL (>= 2)
+Archs: i386, x64
