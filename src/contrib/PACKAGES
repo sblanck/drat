@@ -1,0 +1,6 @@
+Package: cghseg
+Version: 1.0.2-3
+Depends: methods, parallel
+License: GPL (>= 2)
+MD5sum: 01d474ca06177906c820a7911f217367
+NeedsCompilation: yes
