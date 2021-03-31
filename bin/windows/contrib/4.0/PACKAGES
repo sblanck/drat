@@ -1,5 +1,5 @@
 Package: cghseg
-Version: 1.0.5
+Version: 1.0.6
 Depends: methods, parallel
 License: GPL (>= 2)
 Archs: i386, x64
