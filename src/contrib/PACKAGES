@@ -4,3 +4,12 @@ Depends: methods, parallel
 License: GPL (>= 2)
 MD5sum: 3694e32a07d689e2da3c94f13a978803
 NeedsCompilation: yes
+
+Package: MPAgenomics
+Version: 2.0
+Imports: R.utils,changepoint(>= 1.1),glmnet,HDPenReg(>= 0.90),spikeslab,devtools,drat
+Suggests:
+           CGHcall,aroma.affymetrix,aroma.cn,aroma.core,aroma.light,snowfall,R.devices,R.filesets,R.methodsS3,R.oo,matrixStats,cghseg
+License: GPL (>= 2)
+MD5sum: 278876a1e90df4e9ad9196f303f4e2a2
+NeedsCompilation: no
