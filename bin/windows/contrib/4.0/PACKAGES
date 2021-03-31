@@ -3,3 +3,10 @@ Version: 1.0.5
 Depends: methods, parallel
 License: GPL (>= 2)
 Archs: i386, x64
+
+Package: MPAgenomics
+Version: 2.0
+Imports: R.utils,changepoint(>= 1.1),glmnet,HDPenReg(>= 0.90),spikeslab,devtools,drat
+Suggests:
+           CGHcall,aroma.affymetrix,aroma.cn,aroma.core,aroma.light,snowfall,R.devices,R.filesets,R.methodsS3,R.oo,matrixStats,cghseg
+License: GPL (>= 2)
