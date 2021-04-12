@@ -11,5 +11,5 @@ Imports: R.utils,changepoint(>= 1.1),glmnet,HDPenReg(>= 0.90),spikeslab,devtools
 Suggests:
            CGHcall,aroma.affymetrix,aroma.cn,aroma.core,aroma.light,snowfall,R.devices,R.filesets,R.methodsS3,R.oo,matrixStats,cghseg
 License: GPL (>= 2)
-MD5sum: 278876a1e90df4e9ad9196f303f4e2a2
+MD5sum: d9e545785dc060e2865b68ffbb3473a4
 NeedsCompilation: no
